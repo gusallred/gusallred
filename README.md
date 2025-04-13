@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gusallred/gusallred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Computer Science Major and baseball player at [The University of Northern Colorado](https://www.unco.edu/)
+
+### I have two associate degrees from Western Nebraska Community College.
+- Associate of Science in Computer Science
+- Associate of Arts in Information Technology
+
+
+### 🔭 I have experience with Python, Java, C++, and Unity.
+### 🌱 I'm currently learning Unreal Editor for Fortnite as well as React and Node for a web store project.
+### ⚡ Fun fact: I am a Speedcuber, which means that I solve Rubik's Cubes and other similar puzzles really fast.
