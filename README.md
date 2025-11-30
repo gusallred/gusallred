@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - Associate of Science in Computer Science
 - Associate of Arts in Information Technology
 
+### While at Western Nebraska Community College, I completed a fellowship with the NASA Nebraska Space Grant in which I developed a virtual reality Mars habitat simulation using Unity and Blender.
 
 ### 🔭 I have experience with Python, Java, C++, and Unity.
-### 🌱 I'm currently learning Unreal Editor for Fortnite as well as React and Node for a web store project.
+### 🌱 I'm currently working on a Guinea Pig game with my software engineering class using pygame and sqlite.
 ### ⚡ Fun fact: I am a Speedcuber, which means that I solve Rubik's Cubes and other similar puzzles really fast.
