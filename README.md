@@ -25,7 +25,7 @@ Computer Science graduate with a background in software development and data ana
 - A.S. in Computer Science — Western Nebraska Community College
 - A.A. in Information Technology — Western Nebraska Community College
 
-### Technical Interests
+### Areas of Interest
 
 - Software Development
 - Data Analytics
@@ -33,15 +33,20 @@ Computer Science graduate with a background in software development and data ana
 
 ### Technologies
 
-- Python, Java, C++, SQL, R
-- Unity3D & Blender
-- Microsoft Fabric
+**Languages:** Python, Java, C++, SQL, R  
+**Data & Analytics:** Microsoft Fabric  
+**Game Development & 3D:** Unity3D, Blender  
+**Tools:** Git, GitHub
 
 ### Projects & Experience
 
-- NASA Nebraska Space Grant Fellow — developed an interactive Mars habitat VR experience using Unity3D and Blender.
-- Data analytics internship with training in Microsoft Fabric and introductory experience with Qlik.
-- Academic projects involving Python, Java, C++, SQL, and other technologies.
+- **NASA Nebraska Space Grant Fellow** — Developed an interactive Mars habitat VR experience using Unity3D and Blender as part of a NASA Nebraska Space Grant fellowship.
+- **Data Analytics Intern** — Completed training in Microsoft Fabric and gained introductory experience with Qlik while participating in company meetings and professional development activities.
+
+### Featured Projects
+
+- **Drawing Game** — Personal software project developed using Python and concepts from previous coursework.
+- **Lifting Program** — Personal programming project developed to apply programming concepts to a practical application.
 
 ### Open to Opportunities
 
