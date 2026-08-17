@@ -19,8 +19,8 @@ Computer Science graduate with a background in software development and data ana
 
 ### Education
 - B.S. in Computer Science — University of Northern Colorado
-- Certificate in Computer Programming
-- Certificate in Data Analytics
+- Certificate in Computer Programming — University of Northern Colorado
+- Certificate in Data Analytics — University of Northern Colorado
 - A.S. in Computer Science — Western Nebraska Community College
 - A.A. in Information Technology — Western Nebraska Community College
 
