@@ -27,6 +27,9 @@ Computer Science graduate with a background in software development and data ana
 ### Technical Interests
 - Software Development
 - Data Analytics
+- IT & Technology
+
+### Technologies
 - Python, Java, C++, SQL, R
 - Unity3D & Blender
 - Microsoft Fabric
