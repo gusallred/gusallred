@@ -13,14 +13,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Computer Science Major and baseball player at [The University of Northern Colorado](https://www.unco.edu/)
+# Augustus Allred
 
-### I have two associate degrees from Western Nebraska Community College.
-- Associate of Science in Computer Science
-- Associate of Arts in Information Technology
+Computer Science graduate with a background in software development and data analytics.
 
-### While at Western Nebraska Community College, I completed a fellowship with the NASA Nebraska Space Grant in which I developed a virtual reality Mars habitat simulation using Unity and Blender.
+### Education
+- B.S. in Computer Science — University of Northern Colorado
+- Certificate in Computer Programming
+- Certificate in Data Analytics
+- A.S. in Computer Science — Western Nebraska Community College
+- A.A. in Information Technology — Western Nebraska Community College
 
-### 🔭 I have experience with Python, Java, C++, and Unity.
-### 🌱 I'm currently working on a Guinea Pig game with my software engineering class using pygame and sqlite.
-### ⚡ Fun fact: I am a Speedcuber, which means that I solve Rubik's Cubes and other similar puzzles really fast.
+### Technical Interests
+- Software Development
+- Data Analytics
+- Python, Java, C++, SQL, R
+- Unity3D & Blender
+- Microsoft Fabric
+
+### Projects & Experience
+- NASA Nebraska Space Grant Fellow — developed a virtual reality Mars habitat simulation using Unity3D and Blender.
+- Data analytics internship with experience in Microsoft Fabric and introductory Qlik.
+- Academic projects involving Python, Java, C++, SQL, and other technologies.
+
+### Currently
+Building my portfolio and expanding my practical experience in software development, data analytics, and IT.
+
+### Outside of Technology
+Former collegiate baseball player and competitive speedcuber.
